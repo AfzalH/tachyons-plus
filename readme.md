@@ -87,7 +87,7 @@ query=
 
 Class naming format:
 ```
-.bg-[type][? query]
+.bg[type][? query]
 ```
 
 Params
