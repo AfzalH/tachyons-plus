@@ -2,10 +2,12 @@
 
 ## Additional Colors
 
-```
 Class naming format:
+```
 .[color-name]-[background-or-text][lighten-or-darken][amount-of-lighten-darken]
-
+```
+Params
+```
 color-name = 
 [
     red /
@@ -33,10 +35,12 @@ amount-of-lighten-darken = 1 for lowest /2 /3 /4 /5 for highest (mandatory if l 
 ```
 
 ## Aspect Ratio
-```
 Class naming format:
+```
 .aspect-ratio--[width-x-height]
-
+```
+Params
+```
 width-x-height= 
 [
 	16x9 /
@@ -53,11 +57,12 @@ width-x-height=
 ]
 
 ## Background Size
-
-```
 Class naming format:
+```
 .[type][? query]
-
+```
+Params
+```
 ? = optional
 type = 
 [ 
@@ -73,11 +78,12 @@ query=
 ```
 
 ## Background Position
-
-```
 Class naming format:
+```
 .bg-[type][? query]
-
+```
+Params
+```
 ? = optional
 type = 
 [ 
